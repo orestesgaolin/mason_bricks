@@ -4,9 +4,10 @@ This is my private collection of bricks
 
 ## 🧱 Bricks
 
-| Brick                        | Description               |
-| ---------------------------- | ------------------------- |
-| [`cubit_page`](./cubit_page) | Generate a new Cubit page |
+| Brick                        | Description                     |
+| ---------------------------- | ------------------------------- |
+| [`cubit_page`](./cubit_page) | Cubit with a corresponding page |
+| [`repository`](./repository) | Dart repository                 |
 
 ## 🛠️ Installation Steps
 

@@ -1,3 +1,7 @@
+# 1.0.2
+
+- Fixed library name
+
 # 1.0.1
 
 - Fixed name of the repository Dart file

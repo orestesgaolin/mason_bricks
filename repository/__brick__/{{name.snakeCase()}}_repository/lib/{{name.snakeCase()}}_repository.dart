@@ -1,3 +1,3 @@
-library steps_repository;
+library {{name.snakeCase()}}_repository;
 
-export 'src/steps_repository.dart';
+export 'src/{{name.snakeCase()}}_repository.dart';

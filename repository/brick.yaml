@@ -1,10 +1,10 @@
 name: repository
-description: A brick to create a new Dart repository package
+description: A brick to create a new Dart package
 
 # The following defines the version and build number for your brick.
 # A version number is three numbers separated by dots, like 1.2.34
 # followed by an optional build number (separated by a +).
-version: 1.0.2
+version: 1.1.0
 
 # The following defines the environment for the current brick.
 # It includes the version of mason that the brick requires.
@@ -23,6 +23,15 @@ environment:
 vars:
   name:
     type: string
-    description: Repository name
+    description: Package name
     default: data
-    prompt: What is the name of your repository? It will be appended with _repository.
+    prompt: What is the name of your package? It will be appended with suffix.
+  suffix:
+    type: enum
+    description: Package suffix
+    default: repository
+    prompt: What is the type of the package
+    values:
+      - repository
+      - client
+      - service

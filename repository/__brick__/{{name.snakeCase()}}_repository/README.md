@@ -1,3 +1,3 @@
-# {{name.snakeCase()}}\_repository
+# {{name.snakeCase()}}\_{{suffix.snakeCase()}}
 
-Simple repository accessing the {{name.snakeCase()}}
+Simple package accessing the {{name.snakeCase()}}

@@ -1,3 +1,7 @@
+# 1.1.0
+
+- Added configurable suffix
+
 # 1.0.2
 
 - Fixed library name

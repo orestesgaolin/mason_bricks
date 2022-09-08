@@ -1,3 +1,8 @@
+# 1.1.1
+
+- Fixed README.md name
+- Updated dependencies
+
 # 1.1.0
 
 - Added configurable suffix

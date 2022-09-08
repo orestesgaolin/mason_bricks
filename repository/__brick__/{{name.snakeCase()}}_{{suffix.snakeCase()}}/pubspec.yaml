@@ -7,10 +7,10 @@ environment:
   sdk: ">=2.17.0 <3.0.0"
 
 dependencies:
-  equatable: ^2.0.3
-  rxdart: ^0.27.4
+  equatable: ^2.0.5
+  rxdart: ^0.27.5
 
 dev_dependencies:
   mocktail: ^0.3.0
-  test: ^1.19.2
+  test: ^1.21.5
   very_good_analysis: ^3.0.1

@@ -1,3 +1,7 @@
+# 1.1.2
+
+- Updated dependencies
+
 # 1.1.1
 
 - Fixed README.md name

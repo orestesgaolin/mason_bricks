@@ -1,3 +1,7 @@
+# 1.1.3
+
+- Updated analysis options to not include public docs requirement
+
 # 1.1.2
 
 - Updated dependencies

@@ -1,3 +1,7 @@
+# 1.1.4
+
+- Updated dependencies and require Dart 3
+
 # 1.1.3
 
 - Updated analysis options to not include public docs requirement
